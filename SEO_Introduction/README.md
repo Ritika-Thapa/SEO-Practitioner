@@ -1,0 +1,4 @@
+SEO, or Search Engine Optimization, is a digital marketing strategy that focuses on improving a website's visibility and ranking on search engines like Google, Bing, and Yahoo. It involves various techniques and best practices to enhance a website's content, structure, and backlinks, with the aim of achieving higher organic (non-paid) search engine results. The ultimate goal of SEO is to drive more relevant organic traffic to a website, increasing its online presence and potential for conversions and business success.
+SEO is made up of two words search engine and optimization.
++ Search engine refers to the software system that designed to search datas and information relevant to the keywords used by the user.
++ Optimization refers to making most efective use of any situation or resource.
