@@ -1,8 +1,7 @@
 # SEO Learning Journey
 ## This is my journey to learn the SEO Practitioner.
-This repository guide you through the pathway to become SEO practitioner.
+This repository guide you through the pathway to become SEO practitioner. Some of the key topics covered in the SEO Practitioner includes:
 
-Some of the key topics covered in the SEO Practitioner includes:
 + SEO Introduction
 + Search Engine
 + Types of SEO and Appoaches of SEO such as: Black hat, White hat , Grey hat 
