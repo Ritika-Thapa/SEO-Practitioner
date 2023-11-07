@@ -7,6 +7,15 @@ Users input specific keywords or phrases, and the _search engine_ uses complex a
     <img src="./assets/showing result.png" alt="SEO" align="center" width="100%">
 </p>
 
+### SERP(Search Engine Results Page)
+ It refers to the page displayed by a search engine in response to a user's search query.
+
+- **SERP Definition:** SERP stands for "Search Engine Results Page."
+- **Content Variety:** It displays a variety of content types like web pages, images, videos, featured snippets, and ads.
+- **Relevance:** The content is chosen by the search engine as the most relevant to the user's query.
+- **Layout Variation:** SERPs can vary in layout and content based on the search engine and specific query.
+- **User Interface:** It's the page where users view search results after entering search terms in a search engine.
+
 ### Top ten Search Engines are:
 
 + Google
