@@ -4,7 +4,7 @@
 Users input specific keywords or phrases, and the _search engine_ uses complex algorithms to scan, index, and rank web pages and content, presenting a list of relevant results. 
 
 <p align="center">
-    <img src="./assets/showing result.png" alt="SEO" align="center" width="100%" height="250px">
+    <img src="./assets/showing result.png" alt="SEO" align="center" width="100%">
 </p>
 
 ### Top ten Search Engines are:
@@ -21,7 +21,7 @@ Users input specific keywords or phrases, and the _search engine_ uses complex a
 + Ecosia (uses search revenue for tree planting)
 
 <p align="center">
-    <img src="./assets/search-engine-logo.png" alt="SEO" align="center" width="100%" height="250px">
+    <img src="./assets/search-engine-logo.png" alt="SEO" align="center" width="100%">
 </p>
 
 Google uses a program called a **Crawler** or **Spider** to index web content and make it searchable on its _search engine_. 
@@ -30,5 +30,5 @@ Google uses a program called a **Crawler** or **Spider** to index web content an
 + By crawling and indexing websites, Googlebot allows web pages to appear in Google's search results, making them accessible to users searching for specific topics, keywords, or information.
 
 <p align="center">
-    <img src="./assets/Common-search-engine-architecture.png" alt="SEO" align="center" width="100%" height="300px">
+    <img src="./assets/Common-search-engine-architecture.png" alt="SEO" align="center" width="100%">
 </p>
