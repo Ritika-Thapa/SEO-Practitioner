@@ -8,3 +8,21 @@
 + SEO is made up of two words **_Search Engine_** and **_Optimization_**.
 + _Search engine_, refers to the software system that designed to search datas and information relevant to the keywords used by the user.
 + _Optimization_, refers to making most efective use of any situation or resource.
+
+## Job opportunities in SEO
++ SEO Specialist
++ SEO Manager
++ Content Writer/SEO copywiter
++ Link Building Specialist
+
+## Key Skills required to become a SEO Speicialist
++ Keyword Research
++ On-Page Optimization
++ Off-Page Optimization
++ Technical SEO
++ Content Creation
++ Data Analytics
++ Html and CSS basic
++ Content Management System(CMS)
++ Local SEO
++ Digital Marketing Knowledge
