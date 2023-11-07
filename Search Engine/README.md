@@ -32,3 +32,9 @@ Google uses a program called a **Crawler** or **Spider** to index web content an
 <p align="center">
     <img src="./assets/Common-search-engine-architecture.png" alt="SEO" align="center" width="100%">
 </p>
+
+1. **Googlebot's Role:** Googlebot, the Google crawler, indexes web content to make it accessible in Google's search results, ensuring that users can find relevant information when searching using keywords.
+
+2. **User Interaction:** While Googlebot's function is critical for content discovery, it doesn't directly assist users in their keyword-based searches. Users interact with Google's search engine to access indexed content.
+
+3. **Indirect Connection:** The connection between Googlebot and users is indirect, as Googlebot's indexing work facilitates users' ability to search for and discover web content through Google's search interface.
