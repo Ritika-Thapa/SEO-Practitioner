@@ -27,3 +27,7 @@ This module is designed to give you the overview of SEO, Job opportunities and k
 ##   <a href="./Search Engine/README.md">Search Engine</a>
 
 This module is designed to give you the overview of Search Engine, SERP(Search Engine Result Page),Top Search Engines. For more information, <a href="./Search Engine/README.md">Click Here</a>.
+
+##   <a href="./SEO_Vocabulary/README.md">SEO Vocabulary</a>
+
+This module is designed to give you the overview of Search Vocabularies like Black hat, White hat, Grey hat. For more information, <a href="./SEO_Vocabulary/README.md">Click Here</a>.
